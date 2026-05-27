@@ -1,8 +1,11 @@
 def main():
     print("Hello from dev!")
     print("conflict branch practice")
-    print("bed code")
-
+<<<<<<< HEAD
+    print("main.ver")
+=======
+    print("conflict ver")
+>>>>>>> feat/conflict
 
 if __name__ == "__main__":
     main()
